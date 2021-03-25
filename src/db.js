@@ -1,5 +1,5 @@
 const mysql = require("mysql2");
-const pass = "#Antoine1993"
+const pass = ""
 const db = mysql.createConnection({
   host: "localhost",
   port: "3306",
